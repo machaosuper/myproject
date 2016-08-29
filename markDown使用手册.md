@@ -6,7 +6,8 @@
 >
 
 ####html代码
-***html
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +18,7 @@
     
 </body>
 </html>
-
+```
 
 ####无须列表
 
