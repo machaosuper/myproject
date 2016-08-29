@@ -20,6 +20,30 @@
 </html>
 ```
 
+
+####css代码
+```css
+    .g-content {
+        width: 100%;
+        background: #fbe3cc;
+        height: auto;
+        font-family: "微软雅黑", "microsoft yahei";
+    }
+    .g-content .g-lottery-case {
+        width: 500px;
+        height: 445px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    
+    .g-content .g-lottery-case .g-left h2 {
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: normal;
+        margin-left: 20px;
+    }
+```
+
 ####无须列表
 
 * 1
